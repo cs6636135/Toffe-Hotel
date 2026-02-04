@@ -19,3 +19,4 @@ The project translates user needs into a structured Software Requirements Specif
   - Activity Diagram (Swimlane)  
   - ER Diagram  
 - Figma Prototype  
+[View Design Prototype](https://www.figma.com/design/nQhTX1oHSvcjTLkFJDOvwo/SA-PROJECT?node-id=0-1&p=f&t=qelGyC6pNnyxjaLi-0)
